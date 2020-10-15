@@ -1,0 +1,25 @@
+{
+  "name": "json-to-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anilreddy4310/json-to-pdf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anilreddy4310/json-to-pdf/issues"
+  },
+  "homepage": "https://github.com/anilreddy4310/json-to-pdf#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "pdf-creator-node": "^1.4.1"
+  }
+}
